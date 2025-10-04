@@ -4,7 +4,7 @@ A clean, simple MCP (Model Context Protocol) server that enables LLMs to generat
 
 ## Why This Project?
 
-This server demonstrates how to build clean, maintainable MCP servers that follow Python best practices. It's designed to inspire developers to create their own production-ready implementations while keeping the code simple and readable.
+This server demonstrates how to build an MCP server with Vertex AI Memory Bank. It has been inspired by a developer request and released for developers.
 
 ## Prerequisites
 
