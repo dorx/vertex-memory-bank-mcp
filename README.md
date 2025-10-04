@@ -1,6 +1,6 @@
 # Vertex AI Memory Bank MCP Server
 
-A clean, simple MCP (Model Context Protocol) server that enables LLMs to generate and retrieve long-term memories using Vertex AI's Memory Bank.
+A simple MCP (Model Context Protocol) server that enables LLMs to generate and retrieve long-term memories using Vertex AI's Memory Bank.
 
 ## Why This Project?
 
