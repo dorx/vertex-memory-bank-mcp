@@ -14,7 +14,7 @@ This server demonstrates how to build clean, maintainable MCP servers that follo
 
 ## Quick Start
 
-### 1. Setup Google Cloud
+### Setup Google Cloud
 
 ```bash
 # Install gcloud CLI (if not already installed)
@@ -30,7 +30,7 @@ gcloud config set project YOUR_PROJECT_ID
 gcloud services enable aiplatform.googleapis.com
 ```
 
-### 2. Install
+### Install
 
 ```bash
 # Clone the repository
@@ -49,7 +49,7 @@ pip install -e ".[examples]"
 uv sync --extra examples
 ```
 
-### 3. Configure
+### Configure
 
 ```bash
 # Copy the example environment file
@@ -60,7 +60,7 @@ GOOGLE_CLOUD_PROJECT=your-project-id
 GOOGLE_CLOUD_LOCATION=us-central1
 ```
 
-### 4. Run Your First Example
+### Run Your First Example
 
 **Interactive Tutorial (Recommended):** Open `get_started_with_memory_bank_mcp.ipynb` in Jupyter
 
@@ -190,7 +190,7 @@ vertex-ai-memory-bank-mcp/
 │   ├── app_state.py                          # Application state
 │   ├── validators.py                         # Input validation
 │   └── formatters.py                         # Data formatting
-├── examples/                                  # Usage examples
+├── examples/                                 # Usage examples
 │   ├── basic_usage.py                        # Basic MCP client usage
 │   ├── gemini_memory_agent.py                # Gemini with memory context
 │   ├── automatic_tool_calling.py             # Automatic function calling
@@ -215,10 +215,6 @@ vertex-ai-memory-bank-mcp/
 ### "Not authenticated"
 
 **Solution**: Run `gcloud auth application-default login`
-
-### Memories not retrieved
-
-**Solution**: Wait 3-5 seconds after storing for indexing to complete.
 
 ## Extending the Server
 
@@ -250,7 +246,7 @@ When contributing, please:
 
 - [Interactive Tutorial](get_started_with_memory_bank_mcp.ipynb) - Start here!
 - [Model Context Protocol Docs](https://modelcontextprotocol.io/)
-- [Vertex AI Memory Bank](https://cloud.google.com/vertex-ai/docs)
+- [Vertex AI Memory Bank](https://cloud.google.com/vertex-ai/generative-ai/docs/agent-engine/memory-bank/overview)
 - [MCP Server Examples](https://github.com/modelcontextprotocol/servers)
 
 ## License
