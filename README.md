@@ -196,7 +196,6 @@ vertex-ai-memory-bank-mcp/
 │   └── formatters.py                         # Data formatting
 ├── examples/                                 # Usage examples
 │   ├── basic_usage.py                        # Basic MCP client usage
-│   ├── gemini_memory_agent.py                # Gemini with memory context
 │   ├── automatic_tool_calling.py             # Automatic function calling
 │   └── claude_config.json                    # Claude Desktop config
 ├── get_started_with_memory_bank_mcp.ipynb    # Getting started tutorial
