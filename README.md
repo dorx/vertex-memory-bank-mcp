@@ -221,16 +221,6 @@ vertex-ai-memory-bank-mcp/
 
 **Solution**: Run `gcloud auth application-default login`
 
-## Extending the Server
-
-The codebase is designed to be easily extended. Ideas:
-
-1. **Add memory filtering** - Filter memories by date, topic, or custom metadata
-2. **Implement memory merging** - Combine similar memories automatically
-3. **Add batch operations** - Process multiple users' memories efficiently
-4. **Create memory analytics** - Analyze patterns in stored memories
-5. **Build memory export** - Export memories to different formats
-
 ## Contributing
 
 This project is meant to inspire. Feel free to:
