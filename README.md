@@ -223,19 +223,7 @@ vertex-ai-memory-bank-mcp/
 
 ## Contributing
 
-This project is meant to inspire. Feel free to:
-
-- Fork and create your own version
-- Submit PRs with improvements
-- Share your production implementations
-- Report issues or suggest features
-
-When contributing, please:
-
-- Follow PEP 8 style guidelines
-- Add type hints to all functions
-- Keep the code simple and readable
-- Test with both pip and uv installation methods
+This project is meant to inspire. Feel free to fork and create your own version as well as share your production implementations.
 
 ## Resources
 
