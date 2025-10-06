@@ -1,4 +1,6 @@
-_Vertex AI Memory Bank MCP server is not a Google product. And it is not officially support._
+<mark style="background-color: #e1e100">_This is a personal project by Ivan Nardini to explore how to build a Model Context Protocol (MCP) server for Vertex AI Memory Bank._</mark>
+
+<mark style="background-color: #e1e100">_Vertex AI Memory Bank MCP server is not a Google product. And it is not officially support._</mark>
 
 ---
 
