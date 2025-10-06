@@ -1,3 +1,7 @@
+_Vertex AI Memory Bank MCP server is not a Google product. And it is not officially support._
+
+---
+
 # Vertex AI Memory Bank MCP Server
 
 A simple MCP (Model Context Protocol) server that enables LLMs to generate and retrieve long-term memories using Vertex AI's Memory Bank.
